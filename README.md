@@ -147,6 +147,20 @@ Bagian dalam fungsi `menu` menangani pilihan pengguna:
  - agian ini memastikan bahwa fungsi `menu()` hanya akan dijalankan jika skrip ini dijalankan sebagai program utama, bukan jika diimpor sebagai modul.Kesimpulan Program ini adalah aplikasi manajemen data siswa yang sederhana. Pengguna dapat menambahkan, melihat, menghapus, dan mengubah data siswa melalui antarmuka teks. Program ini menggunakan daftar dan kamus untuk menyimpan dan mengelola data.
 
 # Hasil Output
+# Tambahkan Data
+![Screenshot 2024-11-29 233554](https://github.com/user-attachments/assets/72b410ff-1692-44bd-bd47-64f80d8e349d)
+
+# Tampilkan Data
+![Screenshot 2024-11-29 233615](https://github.com/user-attachments/assets/8d93b8c7-0693-48ac-965b-4fd885a98ab6)
+
+# Hapus Data
+![Screenshot 2024-11-29 233640](https://github.com/user-attachments/assets/89aaddbd-49fc-4e54-8782-b329af7c0cca)
+
+# Ubah Data
+![Screenshot 2024-11-29 233834](https://github.com/user-attachments/assets/6a8f1e40-3081-4418-8880-c5a4df354b2e)
+
+# Keluar
+![Screenshot 2024-11-29 233854](https://github.com/user-attachments/assets/6a7e16c4-ac6a-47fe-a39b-cd486d7e2965)
 
 
    
